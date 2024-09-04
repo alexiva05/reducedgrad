@@ -1,1 +1,1 @@
-Implementation of micrograd according to Andrew Karpathy lectures.
+Implementation of micrograd according to Andrej Karpathy lectures.
